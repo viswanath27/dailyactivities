@@ -26,6 +26,7 @@ SECRET_KEY = '*qspkoxkpq@82u68na&hgf)+@cl-^2qq8l567ywcb@#!%k#2fr'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+            'fd9b8c6e.ngrok.io',
             '34.69.139.248',
             'amrutyu.com',
         ]
